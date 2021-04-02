@@ -386,6 +386,10 @@ Small Device Styles
     display: none;
   }
 
+  #header_wrap{
+    background-image: url('../images/background_small.jpg');
+  }
+
   .inner {
     min-width: 320px;
     max-width: 480px;
