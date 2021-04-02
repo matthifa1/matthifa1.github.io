@@ -436,6 +436,16 @@ Small Device Styles
 	color:	DarkGray;
   }
 
+  .up{
+	margin: 10px 0 0 0;
+  }
+
+  .down{
+	margin: 0 0 10px 0;
+	font-size: 12px;
+  }
+
+
   code, pre {
     min-width: 320px;
     max-width: 480px;
