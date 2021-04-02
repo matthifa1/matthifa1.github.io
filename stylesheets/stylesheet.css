@@ -89,10 +89,25 @@ h5 {
   font-size: 18px;
 }
 
+.up{
+	margin: 10px 0 0 0;
+}
+
+.down{
+	margin: 0 0 10px 0;
+	font-size: 16px;
+}
+
+.border{
+	border-style: solid;
+	border-radius: 25px;
+}
+
 h6 {
   font-size: 16px;
   float:	right;
   color:	DarkGray;
+  margin:	0 0 0 0;
 }
 
 p {
@@ -385,10 +400,6 @@ Small Device Styles
   #downloads {
     display: none;
   }
-
-  //#header_wrap{
-  //  background-image: url('../images/background_small.jpg');
-  //}
 
   .inner {
     min-width: 320px;
